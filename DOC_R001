@@ -1,0 +1,24 @@
+Race Name:  Skeleton
+
+Effects:
+  - Detriment: Stay Away From the Hammer [Build: -10] {Body: -10}
+    > Characters with this detriment are harmed double by blunt weapons and half by sharp edged weapons.
+  - Silver Immunity [Build: 10] {Body: 10}
+    > Character is immune to silver damage.
+  - Disease Immunity [Build: 10] {Body: 10}
+    > Character is immune to disease effects including Vampirism and Lycanthropy.
+  - Death Immunity [Build: 10] {Body: 10}
+    > Character is immune to death effects, and body is doubled in the ethereal.
+  - Endure Darkness [Build: 5] {Body: 5}
+    > Can endure damaging effects on the Darkness plain.
+  - Speak with Dead [Build: 5] {Body: 5}
+    > Upon calling "Speak with dead" near a deceased target, the character can speak with dead as long as the spirit is still
+      attached to the body. This does NOT guarantee that the dead will tell the truth or speak coherently.
+  - Connection with Death [Build: 5] {Body: 5}
+    > Once in the lifetime of this character, they can willingly bring another character or themselves back to life with no
+      vitality loss. Upon this skill being used, a plot marshal will need to be contacted and this racial will be removed from
+      the character sheet. You may not relearn this racial once it has been used.
+
+Skills:
+  - nullSKILL (LvMAX. null) [Build Per: null] {Body Per: null}
+    > nullDESC
