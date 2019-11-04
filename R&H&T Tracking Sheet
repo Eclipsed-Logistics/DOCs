@@ -2,3 +2,4 @@ Race Name                |DOC             Path Name                |DOC         
 -------------------------|----------      -------------------------|----------      -------------------------|----------
 nullNAME                 |DOC_R###        nullNAME                 |DOC_H###        Tank                     |DOC_T001
                          |                                         |                Controller               |DOC_T002
+                         |                                         |                Healer                   |DOC_T003
