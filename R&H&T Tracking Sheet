@@ -1,5 +1,5 @@
 Race Name                |DOC             Path Name                |DOC             Category Name            |DOC
 -------------------------|----------      -------------------------|----------      -------------------------|----------
-Skeleton                 |DOC_R001        nullNAME                 |DOC_H###        Tank                     |DOC_T001
+Human                    |DOC_R001        nullNAME                 |DOC_H###        Tank                     |DOC_T001
                          |                                         |                Controller               |DOC_T002
                          |                                         |                Healer                   |DOC_T003
