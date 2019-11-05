@@ -1,0 +1,18 @@
+Race Name:  Greenling
+
+Effects:
+  - Detriment: Weakness to Fire [Build: -10] {Body: 0}
+    > All damaging fire effects deal double the amount of damage to the greenling.
+  - The World's Healer [Build: 10] {Body: 5}
+    > Healing effects cast by a greenling heal the target an additional amount that equals half the original healing of the spell cast.
+  - Resistance to Nature [Build: 15] {Body: 4}
+    > Resistance to all damaging nature spells, halfing any damage the player would take. Additionally, all Nature healing spells cast
+      on this target heal the greenling double the amount.
+  - Speak with Mammals [Build: 5] {Body: 0}
+    > Greenlings as an avatar of the earth have the ability to converse with everyday animals, even if they could not speak to people
+      normally.
+
+Skills:
+  - Life Aspect (LvMAX. 4) [Build Per: 5] {Body Per: 1}
+    > A greenling is the agent of mother nature on the surface of the world, the race is one of the greatest healers as a whole. This
+      skill decreases all healer ability cost’s by 1 per purchase.

@@ -1,0 +1,23 @@
+Race Name:  Android
+
+Effects:
+  - Detriment: Weakness to Water [Build: -10] {Body: 0}
+    > Any damaging water effects deal double the amount of damage to the Android, the android also cannot be healed by any water
+      effects.
+  - Detriment: Weakness to Acid [Build: -10] {Body: 0}
+    > Any damaging Acid effects deal double damage to the android, attacking plating first.
+  - Resistance to Electricity [Build: 15] {Body: 2}
+    > Any electric effect that would damage the Android is halved (rounded up).
+  - Assimilate Weaponry [Build: 10] {Body: 4}
+    > Android are an adaptable race, the player can pick a weapon type (Sword, Axe, etc.) and call out, while holding said weapon,
+      “Assimilate Weaponry:__” whatever weapon they are assimilating is called out as well, giving them a +2 to all attacks made with
+      said weapon type.
+
+Skills:
+  - Built Tough (LvMAX. 3) [Build Per: 5] {Body Per: 2}
+    > Androids as a race are built tougher than other races, purely from their metal body giving them an advantage as tanks in the
+      world of heroes and villains. Purchasing this skill reduces tanking abilities cost by one for each purchase.
+  - Plating (LvMAX. 45) [Build Per: 1] {Body Per: 0}
+    > Works similar to normal armor. Value is 2 points of armor per purchase. Armor can be replenished in 60 seconds of time re-adjusting
+      the plating. This skill will follow maximum value limited in the armoring system just like physical armor. This skill stacks with
+      normal armor.
