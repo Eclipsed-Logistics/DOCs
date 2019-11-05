@@ -1,8 +1,8 @@
 Race Name:  Human
 
 Effects:
-  - Detriment: Weakness to Disease [-10 Build] {0 Body}
-    > All disease effects last twice the duration, all conditions continue over the duration.
+  - Detriment: Weakness to Curse [-10 Build] {0 Body}
+    > All curse effects last twice the duration, all conditions continue over the duration.
   - Melee Weapons [10 Build] {2 Body}
     > Humans have an advantage to all melee weapons, gaining +2 to all weapon attacks made with a melee weapon.
   - Merchantile [10 Build] {4 Body}
