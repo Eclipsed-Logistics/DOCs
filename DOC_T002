@@ -1,6 +1,9 @@
 Category Name:  Controller
 Description:  Immobilize your enemies and regenerate your allies.
 
+Pools:
+  - nullPOOL [Build Per: null]
+
 Included Paths:
   - Mental Controller {DOC_H###}
     > Manipulating the environment with your mind has never been more fun. Attack and control others by psychic power or at your

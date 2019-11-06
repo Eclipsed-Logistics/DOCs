@@ -1,6 +1,9 @@
 Category Name:  Healer
 Description:  Healing others and shielding attacks
 
+Pools:
+  - nullPOOL [Build Per: null]
+
 Included Paths:
   - Nature Healer {DOC_H###}
     > Make the most of your primal forces and embrace the help from your environment. Adapt to situations and terrains by shifting
