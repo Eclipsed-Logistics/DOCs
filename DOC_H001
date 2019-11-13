@@ -1,0 +1,18 @@
+Path Name:  Ice Tank
+
+Skills:
+  - Frozen Blades (LvMAX. 1) [Build Per: 5] {Cast Cost: 2 Tanking}
+    > Your weapon becomes encased in ice. You swing for Ice damage for 5 minutes.
+  - Freezing Strikes (LvMAX. 5) [Build Per: 5] {Cast Cost: 3 Tanking}
+    > Your next 5 melee strikes that deal Ice damage deal an additional 2 damage for each purchase. This effect cannot be stacked.
+  - Arctic Wind (LvMAX. 1) [Build Per: 5] {Cast Cost: 3 Tanking}
+    > You summon a forceful freezing wind around a target. A ranged target, when hit, takes 10 Ice damage.
+  - Dome of Ice (LvMAX. 1) [Build Per: 10] {Cast Cost: 4 Tanking}
+    > You or a willing creature you touch become surrounded by a thin layer of ice and gain 20 temporary armor. This temporary 
+      armor will deplete before the target’s normal armor and takes double Flame damage. This effect can stack on itself once.
+  - Arctic Burst (LvMAX. 1) [Build Per: 10] {Cast Cost: 5 Tanking}
+    > You fling a burst of ice particles towards a target. A ranged target, when hit, takes 25 Ice damage.
+  - Cryostasis (LvMAX. 1) [Build Per: 15] {Cast Cost: 6 Tanking}
+    > You or a willing creature you touch become encased in a thick layer of ice for 20 seconds or until the ice is broken. While 
+      encased in the ice, the target heals 1 body every 2 seconds, cannot take damage, and cannot move or cast skills/magic. The 
+      ice will break automatically after 20 seconds or when its 20 armor is depleted. This effect cannot be stacked.
