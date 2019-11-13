@@ -1,5 +1,5 @@
 Race Name                |DOC             Path Name                |DOC             Category Name            |DOC
 -------------------------|----------      -------------------------|----------      -------------------------|----------
 Human                    |DOC_R001        Ice Tank                 |DOC_H001        Tank                     |DOC_T001
-Android                  |DOC_R002                                 |                Controller               |DOC_T002
+Android                  |DOC_R002        Flame Tank               |DOC_H002        Controller               |DOC_T002
 Greenling                |DOC_R003                                 |                Healer                   |DOC_T003
