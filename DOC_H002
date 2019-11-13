@@ -1,0 +1,12 @@
+Path Name:  Flame Tank
+
+Skills:
+  - Fists of Fire (LvMAX. 1) [Build Per: 5] {Cast Cost: 2 Tanking}
+    > Engulf your hands in a wreath of flames, adding the aura of fire to your weapon. You swing for Flame damage for 5 minutes.
+  - Flame Lord's Armor (LvMAX. 1) [Build Per: 10] {Cast Cost: 5 Tanking}
+    > A flowing armor of fire surrounds you or a willing creature that you touch. The target gains 30 temporary armor, which will deplete
+      before their own armor and cannot be restored.
+  - Flame Prison (LvMAX. 1) [Build Per: 15] {Cast Cost: 6 Tanking}
+    > Capture a ranged target in a cage of fire for 10 seconds. If the target moves while this effect is in place, the target must take
+      10 Body damage before returning to where they were. The target does not take damage from melee strikes or water damage while this
+      effect is active. The effects of this skill end after 10 seconds or when the target takes damage.
