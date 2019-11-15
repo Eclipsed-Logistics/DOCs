@@ -20,5 +20,6 @@ Skills:
     > You summon an icy storm around a target, dealing 30 Ice damage plus your Freezing Strikes bonus. A target struck by this is
       frozen to the ground and cannot move unless the ice holding them is destroyed, the ice has 10 armor.
   - Frozen Cataclysm (LvMAX. 1) [Build Per: 20] {Cast Cost: 10 Tanking}
-    > You throw a small ball of ice at a ranged target, which encases the target in ice upon impact. A target, when hit, takes 25
-      Ice damage and is frozen INCOMPLETE
+    > You throw a small ball of ice at a ranged target, which encases the target in ice upon impact. A target, when hit, takes 15
+      Ice damage and is frozen. While frozen, the target takes 2 Ice damage each second and cannot move. The ice encasing the target
+      will break after 15 seconds or once it takes 30 damage.
