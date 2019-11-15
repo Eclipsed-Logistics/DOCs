@@ -3,20 +3,18 @@ Path Name:  Flame Tank
 Skills:
   - Fists of Fire (LvMAX. 1) [Build Per: 5] {Cast Cost: 2 Tanking}
     > Engulf your hands in a wreath of flames, adding the aura of fire to your weapon. You swing for Flame damage for 5 minutes.
+  - Burning Strikes (LvMAX. 5) [Build Per: 5] {Cast Cost: 3 Tanking}
+    > Your next 5 melee strikes that deal Flame damage deal an additional 2 damage for each purchase. This effect cannot be stacked.
   - Ray of Fire (LvMAX. 1) [Build Per: 5] {Cast Cost: 3 Tanking}
     > A beam of fire quickly travels from you to a ranged target. When hit, the target takes 15 Flame damage.
-  - Firewall (LvMAX. 1) [Build Per: 10] {Cast Cost: 4 Tanking}
-    > A wall of fire stretching 10 feet appears centered on the front of your foot. Anything that passes through the wall takes 10
-      Flame damage. The wall disappears after 2 minutes or when you cast another skill/spell.
-  - Flame Lord's Armor (LvMAX. 1) [Build Per: 10] {Cast Cost: 5 Tanking}
-    > A flowing armor of fire surrounds you or a willing creature that you touch. The target gains 30 temporary armor, which will
-      deplete before their own armor and cannot be restored.
+  - Flame Lord's Armor (LvMAX. 3) [Build Per: 10] {Cast Cost: 5 Tanking}
+    > A flowing armor of fire surrounds you or a willing creature that you touch. The target gains 30 temporary armor per purchase,
+      which will deplete before their own armor and cannot be restored.
   - Wildfire (LvMAX. 1) [Build Per: 10] {Cast Cost: 5 Tanking}
-    > 
+    > You stand in place and throw 5 fireballs. Targets hit by these fireballs take 5 Flame damage for each fireball that hits them.
   - Ember Burst (LvMAX. 1) [Build Per: 15] {Cast Cost: 6 Tanking}
-    > A small, glowing ember appears where the packet is thrown. This ember will remain in place until 5 minutes have passed or
-      another packet is thrown near the ember with the call "Ember, explode!". The call will cause the ember to explode, dealing 25 
-      Flame damage to every creature within 5 feet of it. You can only have one active ember at a time.
+    > You throw a small, glowing ember at a ranged target. This ember will burst into flames on contact with a target. A target,
+      when hit, takes 20 Flame damage.
   - Flame Prison (LvMAX. 1) [Build Per: 15] {Cast Cost: 6 Tanking}
     > Capture a ranged target in a cage of fire for 10 seconds. If the target moves while this effect is in place, the target must
       take 10 Body damage before returning to where they were. The target does not take damage from melee strikes or water damage 
