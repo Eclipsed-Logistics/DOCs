@@ -16,7 +16,7 @@ Skills:
   - Ember Burst (LvMAX. 1) [Build Per: 15] {Cast Cost: 6 Tanking}
     > A small, glowing ember appears where the packet is thrown. This ember will remain in place until 5 minutes have passed or
       another packet is thrown near the ember with the call "Ember, explode!". The call will cause the ember to explode, dealing 25 
-      Flame damage to every creature within 5 feet of it. You can only have one active ember at a time.
+      Flame damage to the person that is hit. You can only have one active ember at a time.
   - Flame Prison (LvMAX. 1) [Build Per: 15] {Cast Cost: 6 Tanking}
     > Capture a ranged target in a cage of fire for 10 seconds. If the target moves while this effect is in place, the target must
       take 10 Body damage before returning to where they were. The target does not take damage from melee strikes or water damage 
